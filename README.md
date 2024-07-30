@@ -11,14 +11,6 @@
 <a href="https://www.instagram.com/reksasaja/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://wa.me/+6281287148906" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
 
-## :rocket: Deployed on
-<p align="left">
-  <a href="https://azure.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/Azure-%23007ACC.svg?&style=for-the-badge&logo=azure&logoColor=white" alt="Azure"></a>
-  <a href="https://www.digitalocean.com/" target="_blank"><img src="https://img.shields.io/badge/DigitalOcean-%2325A0DF.svg?&style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean"></a>
-  <a href="https://www.linode.com/" target="_blank"><img src="https://img.shields.io/badge/Linode-%2300A95C.svg?&style=for-the-badge&logo=linode&logoColor=white" alt="Linode"></a>
-  <a href="https://www.vultr.com/" target="_blank"><img src="https://img.shields.io/badge/Vultr-%230000FF.svg?&style=for-the-badge&logo=vultr&logoColor=white" alt="Vultr"></a>
-</p>
-
 ## Database Used
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
