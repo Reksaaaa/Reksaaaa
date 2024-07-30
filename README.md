@@ -10,7 +10,6 @@
 [<img src="https://img.shields.io/badge/Email-rheksa10@gmail.com-purple">](mailto:rheksa10@gmail.com)
 <a href="https://www.instagram.com/reksasaja/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://wa.me/+6281287148906" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
-[![Profile Views](https://komarev.com/ghpvc/?username=amiruldev20&label=Profile%20Views)](https://github.com/amiruldev20)
 
 ## :rocket: Deployed on
 <p align="left">
