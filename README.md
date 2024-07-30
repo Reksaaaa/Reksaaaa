@@ -6,7 +6,7 @@
 
 
 ## Hello, I'm [Reksaaa](https://www.instagram.com/reksasaja/) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> :sunglasses:
-[<img src="https://img.shields.io/badge/Website-amirull.dev-blue">](https://www.amirull.dev)
+[<img src="https://img.shields.io/badge/Website-Reksaaa-blue">](https://www.amirull.dev)
 [<img src="https://img.shields.io/badge/Email-support@amirull.dev-purple">](mailto:support@amirull.dev)
 <a href="https://www.instagram.com/amirul.dev" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://wa.me/6285157489446" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
