@@ -36,7 +36,7 @@
 ## Repo Stats 🔥
 
 <p align="center">
-  <a href="https://github.com/amiruldev20"><img src="https://github-readme-stats.vercel.app/api?username=Reksaaaa&theme=tokyonight&show_icons=true" /></a>
+  <a href="https://github.com/Reksaaaa"><img src="https://github-readme-stats.vercel.app/api?username=Reksaaaa&theme=tokyonight&show_icons=true" /></a>
 </p>
 
   
